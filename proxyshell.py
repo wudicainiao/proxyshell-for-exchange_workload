@@ -88,8 +88,8 @@ class ProxyShell:
             url=url,
             data=data,
             headers=headers,
-            proxies={"http": "http://127.0.0.1:8080/","https": "http://127.0.0.1:8080/"},
-            timeout=60
+            #proxies={"http": "http://127.0.0.1:8080/","https": "http://127.0.0.1:8080/"},
+            #timeout=60
         )
         return r
 
