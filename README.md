@@ -7,4 +7,5 @@ based on https://github.com/dmaasland/proxyshell-poc
 
 使用：
 python38 -m pip install colorama
+
 python38 proxyshell.py -u https://xxxx.xx/ -e xxxx@xxxx.xx
